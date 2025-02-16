@@ -13,12 +13,6 @@ The Bag Shop Inventory System is a Java-based application designed to help bag s
 - Data Persistence: Saves and retrieves inventory data from a text file.
 
 
-## Technologies Used
-- Java (JDK 8+)
-- Java Swing (GUI Development)
-- HashMap & File Handling (Data Storage)
-
-
 ## Project Structure
 ```bash
 /Bag-Shop-Inventory-System
